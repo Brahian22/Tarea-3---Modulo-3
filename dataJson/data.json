@@ -1,0 +1,137 @@
+ { "personas":  [
+    {
+        "Genero": "Masculino",
+        "Edad": "32",
+        "Peso": "80",
+        "Estatura": "180",
+        "MasaCorporal": "24.7",
+        "Estado": "Saludable"
+
+    },
+    {
+        "Genero": "Masculino",
+        "Edad": "27",
+        "Peso": "42",
+        "Estatura": "160",
+        "MasaCorporal": "16.4",
+        "Estado": "Bajo Peso"
+
+    },
+    {
+        "Genero": "Masculino",
+        "Edad": "19",
+        "Peso": "31",
+        "Estatura": "155",
+        "MasaCorporal": "153.1",
+        "Estado": "Obesidad Extrema"
+
+    },
+    {
+        "Genero": "Masculino",
+        "Edad": "35",
+        "Peso": "45",
+        "Estatura": "180",
+        "MasaCorporal": "13.9",
+        "Estado": "Bajo Peso"
+
+    },
+    {
+        "Genero": "Masculino",
+        "Edad": "23",
+        "Peso": "80",
+        "Estatura": "192",
+        "MasaCorporal": "21.7",
+        "Estado": "Saludable"
+
+    },
+    {
+        "Genero": "Masculino",
+        "Edad": "45",
+        "Peso": "72",
+        "Estatura": "172",
+        "MasaCorporal": "24.3",
+        "Estado": "Saludable"
+
+    },
+    {
+        "Genero": "Masculino",
+        "Edad": "32",
+        "Peso": "96",
+        "Estatura": "155",
+        "MasaCorporal": "40",
+        "Estado": "Obesidad Extrema"
+
+    },
+    {
+        "Genero": "Masculino",
+        "Edad": "18",
+        "Peso": "102",
+        "Estatura": "165",
+        "MasaCorporal": "37.5",
+        "Estado": "Sobrepeso"
+
+    },
+    {
+        "Genero": "Femenino",
+        "Edad": "27",
+        "Peso": "120",
+        "Estatura": "172",
+        "MasaCorporal": "40.6",
+        "Estado": "Obesidad Extrema"
+
+    },
+    {
+        "Genero": "Femenino",
+        "Edad": "21",
+        "Peso": "89",
+        "Estatura": "132",
+        "MasaCorporal": "51.1",
+        "Estado": "Obesidad Extrema"
+
+    },
+    {
+        "Genero": "Femenino",
+        "Edad": "31",
+        "Peso": "48",
+        "Estatura": "145",
+        "MasaCorporal": "22.8",
+        "Estado": "Saludable"
+
+    },
+    {
+        "Genero": "Femenino",
+        "Edad": "33",
+        "Peso": "79",
+        "Estatura": "180",
+        "MasaCorporal": "24.4",
+        "Estado": "Saludable"
+
+    },
+    {
+        "Genero": "Femenino",
+        "Edad": "37",
+        "Peso": "150",
+        "Estatura": "191",
+        "MasaCorporal": "41.1",
+        "Estado": "Obesidad Extrema"
+
+    },
+    {
+        "Genero": "Femenino",
+        "Edad": "19",
+        "Peso": "65",
+        "Estatura": "167",
+        "MasaCorporal": "23.3",
+        "Estado": "Saludable"
+
+    },
+    {
+        "Genero": "Femenino",
+        "Edad": "28",
+        "Peso": "57",
+        "Estatura": "191",
+        "MasaCorporal": "15.6",
+        "Estado": "Bajo Peso"
+
+    }
+ ]}

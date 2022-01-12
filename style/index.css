@@ -1,0 +1,79 @@
+* {
+    text-align: center;
+}
+body {
+    background-image: url(https://ak.picdn.net/shutterstock/videos/1020268471/thumb/1.jpg?ip=x480);
+}
+.sexo img {
+    width: 120px;
+    border-radius: 50%;
+}
+
+.contenedor {
+background-color: rgb(158, 191, 253);
+margin-left: 600px;
+margin-right: 600px;
+padding-bottom: 20px;
+border-radius: 20px;
+}
+
+.inputs input {
+    margin: 10px;
+    margin-top: 10px;
+    padding: 2px;
+    background-color: rgb(158, 191, 253);
+    border-radius: 5%;
+}
+
+.btn {
+    margin: 10px;
+    padding: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: greenyellow !important;
+}
+
+.deco {
+    -webkit-appearance: none;
+    background: linear-gradient(to right, rgb(0, 119, 255) ,rgb(0, 128, 68),rgb(235, 248, 45) ,rgb(255, 73, 17)); ;
+    width: 300px;
+    height: 26px;
+    border-radius: 10px;
+    
+}
+
+.deco::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 0;
+    height: 0;
+    border-right: 15px solid transparent;
+    border-left: 15px solid transparent;
+    border-top: 15px solid rgb(158, 191, 253);
+    
+}
+
+.contenedor2 {
+    background-color: rgb(158, 191, 253);
+    margin-left: 600px;
+    margin-right: 600px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+}
+
+.circles {
+    width: 50px;    
+    height: 50px;
+
+}
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 119, 119);
+}
+.blue {
+    color: blue
+}
+
+p {
+    color: rgb(56, 56, 56)
+}
